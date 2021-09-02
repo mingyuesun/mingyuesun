@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 半路出家的小菜鸡前端😄
+- 正在恶补计算机科学基础知识😭 
+
